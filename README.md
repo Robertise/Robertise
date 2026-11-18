@@ -2,7 +2,7 @@
 
 # Hi, I'm Robert (Do Gia Huy) 👋
 
-### AI Undergraduate • ML Researcher • Builder
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=640&height=40&lines=AI+Undergraduate;Machine+Learning+Researcher;Building+AI+systems+end+to+end" />
 
 AI undergraduate at Swinburne University of Technology Vietnam (Class of 2027).<br/>
 I do machine learning research and like building intelligent systems end to end, from models to deployed applications, with a particular interest in healthcare.
@@ -18,8 +18,6 @@ I do machine learning research and like building intelligent systems end to end,
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
   </a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f172a,50:1d4ed8,100:06b6d4&height=120&section=header" width="100%"/>
 
 </div>
 
@@ -47,7 +45,9 @@ I do machine learning research and like building intelligent systems end to end,
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,aws,react,postgres,docker,git" />
 
-Open to research collaborations and AI/ML internships.
+### Open to research collaborations and AI/ML internships.
+
+---
 
 <div align="center">
 
