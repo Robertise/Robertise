@@ -1,6 +1,8 @@
 <div align="center">
 
-# Hi, I'm Robert (Do Gia Huy) 👋
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1d4ed8,100:06b6d4&height=6" width="100%"/>
+
+# Hi, I'm Robert (Huy Gia Do) 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=640&height=40&lines=AI+Undergraduate;Machine+Learning+Researcher;Building+AI+systems+end+to+end" />
 
@@ -43,7 +45,9 @@ I do machine learning research and like building intelligent systems end to end,
 - [Cyber Multi-Agent](https://github.com/Robertise/cyber-multi-agent): a RAG-based multi-agent system that answers threat questions from MITRE ATT&CK and OTX data with cited sources.
 - [Traffic Routing System](https://github.com/Robertise/traffic-routing-system): LSTM/GRU traffic forecasting feeding a graph-based route search.
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,aws,react,postgres,docker,git" />
+<p>
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="32" alt="Python" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="32" alt="PyTorch" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="32" alt="AWS" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/react/61DAFB" height="32" alt="React" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="32" alt="PostgreSQL" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/docker/2496ED" height="32" alt="Docker" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/git/F05032" height="32" alt="Git" />
+</p>
 
 ### Open to research collaborations and AI/ML internships.
 
@@ -53,6 +57,6 @@ I do machine learning research and like building intelligent systems end to end,
 
 **Outside of work:** a black cat who rules the house 🐱, coffee at every café ☕, and a lifelong Cristiano Ronaldo fan ⚽
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f172a,50:1d4ed8,100:06b6d4&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1d4ed8,100:06b6d4&height=6" width="100%"/>
 
 </div>
