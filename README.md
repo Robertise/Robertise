@@ -19,7 +19,7 @@ I do machine learning research and like building intelligent systems end to end,
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:3b82f6&height=100&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f172a,50:1d4ed8,100:06b6d4&height=120&section=header" width="100%"/>
 
 </div>
 
@@ -53,6 +53,6 @@ Open to research collaborations and AI/ML internships.
 
 **Outside of work:** a black cat who rules the house 🐱, coffee at every café ☕, and a lifelong Cristiano Ronaldo fan ⚽
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:3b82f6&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f172a,50:1d4ed8,100:06b6d4&height=80&section=footer" width="100%"/>
 
 </div>
