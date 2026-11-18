@@ -1,21 +1,33 @@
 # Hi, I'm Robert (Do Gia Huy) 👋
 
-AI undergraduate at Swinburne University of Technology (Class of 2027).
-Interested in building intelligent systems, machine learning applications, and practical software solutions.
+AI undergraduate at Swinburne University of Technology Vietnam (Class of 2027).
+I do machine learning research and like building intelligent systems end to end, from models to deployed applications, with a particular interest in healthcare.
 
-**Tech:** Python • C# • JavaScript • Kotlin • React • Node.js • PostgreSQL • Git
+## Research Interests
 
-**Status:** I'm currently looking for AI or Software-related internship opportunities. If you have a role that might be a fit, I’d love to connect! You can find my contact details below.
+Imbalanced Learning · Trustworthy Machine Learning · AI in Healthcare · Biomedical Informatics
 
-📫 **Contact**
+## Publication
 
-* Email: [giahuydo705@gmail.com](mailto:giahuydo705@gmail.com)
-* LinkedIn: [Do Gia Huy](https://www.linkedin.com/in/do-huy-294353354/)
-* Portfolio: [robertise.github.io](https://robertise.github.io/portfolio)
-* GitHub: [Robertise](https://github.com/Robertise)
+**Calibrating Severity Prediction for Unseen Drugs: A Topology-Aware Objective for Strict Semi-Inductive DDI Classification**
+*Array* (Elsevier), 2026 · [DOI: 10.1016/j.array.2026.101402](https://doi.org/10.1016/j.array.2026.101402) [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2590005626007253)
 
-👀 **Fun Fact**
+**Out of Sync: Audio-Shoulder Consistency for Detecting Long-Clip Lip-Sync Deepfakes**
+*ICoABCD 2026* · Accepted, in press
 
-* I have a cutie cat, she's a black queen. 🐱
-* I love drinking coffee — every time I go into a café, it's always my first choice. ☕
-* I am a super huge fan of Cristiano Ronaldo. If you are too, we are definitely friends now. 🤣
+## Currently
+
+- **Research:** machine learning in bioinformatics
+- **Looking for:** research collaborations and AI/ML internships
+
+## Stack
+
+Python, PyTorch, PyTorch Geometric, AWS, RAG / LLM agents, React, PostgreSQL, Git
+
+## Contact
+
+[giahuydo705@gmail.com](mailto:giahuydo705@gmail.com) · [LinkedIn](https://www.linkedin.com/in/do-huy-294353354/) · [Portfolio](https://robertise.github.io/portfolio)
+
+---
+
+Outside of work: a black cat who rules the house 🐱, coffee at every café ☕, and a lifelong Cristiano Ronaldo fan ⚽
