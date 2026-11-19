@@ -32,15 +32,13 @@ I do machine learning research and like building intelligent systems end to end,
 
 ## <img src="https://cdn.simpleicons.org/googlescholar/3B82F6" width="22" height="22" align="absmiddle" /> Publication
 
-- **Calibrating Severity Prediction for Unseen Drugs: A Topology-Aware Objective for Strict Semi-Inductive DDI Classification**
-  *Array* (Elsevier), 2026 · [DOI: 10.1016/j.array.2026.101402](https://doi.org/10.1016/j.array.2026.101402) · [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2590005626007253)
+- H. G. Do, D. Q. Bui, H. G. Doan, T. D. Nguyen, M. D. H. Huynh, M. A. Hoang, and K. Nguyen-Vinh, “Calibrating severity prediction for unseen drugs: A topology-aware objective for strict semi-inductive DDI classification,” Array, vol. 32, Art. no. 101402, 2026, doi: [10.1016/j.array.2026.101402](https://www.sciencedirect.com/science/article/pii/S2590005626007253)
 
-- **Out of Sync: Audio-Shoulder Consistency for Detecting Long-Clip Lip-Sync Deepfakes**
-  *ICoABCD 2026* · Accepted, in press
+- H. G. Do, P. B. Vu, K. D. Nguyen, M. K. Tong, S. Nguyen-Xuan, and M. A. Hoang, “Out of Sync: Audio-Shoulder Consistency for Detecting Long-Clip Lip-Sync Deepfakes,” in Proc. 4th International Conference on AI, Blockchain, Cloud & Data Analytics (ICoABCD), 2026, accepted, to be published.
 
 ## <img src="https://cdn.simpleicons.org/github/3B82F6" width="22" height="22" align="absmiddle" /> Things I've Built
 
-- [Pedix](https://github.com/Robertise/pedix): an agentic RAG clinical reasoning app for pediatric care on AWS, built during my AWS Vietnam internship (First Cloud Journey, 2026).
+- [Pedix](https://github.com/Robertise/pedix): an agentic RAG clinical reasoning app for pediatric care on AWS, built during my AWS Vietnam trainee (First Cloud Journey, 2026).
 - [RTL Triage Agent](https://github.com/Robertise/rtl_triage): an LLM agent that localizes, patches and re-simulates failing Verilog designs, evaluated against a single-shot baseline.
 - [Cyber Multi-Agent](https://github.com/Robertise/cyber-multi-agent): a RAG-based multi-agent system that answers threat questions from MITRE ATT&CK and OTX data with cited sources.
 - [Traffic Routing System](https://github.com/COS30019-IntroductiontoAI/traffic-routing-system): LSTM/GRU traffic forecasting feeding a graph-based route search.
