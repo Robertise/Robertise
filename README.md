@@ -32,9 +32,9 @@ I do machine learning research and like building intelligent systems end to end,
 
 ## <img src="https://cdn.simpleicons.org/googlescholar/3B82F6" width="22" height="22" align="absmiddle" /> Publication
 
-- H. G. Do, D. Q. Bui, H. G. Doan, T. D. Nguyen, M. D. H. Huynh, M. A. Hoang, and K. Nguyen-Vinh, “Calibrating severity prediction for unseen drugs: A topology-aware objective for strict semi-inductive DDI classification,” Array, vol. 32, Art. no. 101402, 2026, doi: [10.1016/j.array.2026.101402](https://www.sciencedirect.com/science/article/pii/S2590005626007253)
+- **H. G. Do**, D. Q. Bui, H. G. Doan, T. D. Nguyen, M. D. H. Huynh, M. A. Hoang, and K. Nguyen-Vinh, “Calibrating severity prediction for unseen drugs: A topology-aware objective for strict semi-inductive DDI classification,” Array, vol. 32, Art. no. 101402, 2026, doi: [10.1016/j.array.2026.101402](https://www.sciencedirect.com/science/article/pii/S2590005626007253)
 
-- H. G. Do, P. B. Vu, K. D. Nguyen, M. K. Tong, S. Nguyen-Xuan, and M. A. Hoang, “Out of Sync: Audio-Shoulder Consistency for Detecting Long-Clip Lip-Sync Deepfakes,” in Proc. 4th International Conference on AI, Blockchain, Cloud & Data Analytics (ICoABCD), 2026, accepted, to be published.
+- **H. G. Do**, P. B. Vu, K. D. Nguyen, M. K. Tong, S. Nguyen-Xuan, and M. A. Hoang, “Out of Sync: Audio-Shoulder Consistency for Detecting Long-Clip Lip-Sync Deepfakes,” in Proc. 4th International Conference on AI, Blockchain, Cloud & Data Analytics (ICoABCD), 2026, accepted, to be published.
 
 ## <img src="https://cdn.simpleicons.org/github/3B82F6" width="22" height="22" align="absmiddle" /> Things I've Built
 
